@@ -31,7 +31,7 @@ class Program
         {
             letterGrade = "D";
         }
-        else if (grade <= 59)
+        else 
         {
             letterGrade = "F";
         }
